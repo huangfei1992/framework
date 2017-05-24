@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FrameWork</string>
+    <string name="app">%1$s and %2$s </string>
+</resources>
