@@ -40,9 +40,9 @@ public class MyLinearLayout extends LinearLayout {
         float x = ev.getX();
         float y = ev.getY();
 
-        switch (action){
+        switch (action) {
             case MotionEvent.ACTION_MOVE:
-
+                final int xDiff = (int) Math.abs(mLastMotionX - x);
                 break;
         }
         return super.onInterceptTouchEvent(ev);
