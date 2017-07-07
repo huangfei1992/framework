@@ -2,4 +2,8 @@
 <resources>
     <color name="toolbar">#3F51B5</color>
     <color name="color_FFFFFF">#FFFFFF</color>
+    <color name="color_transparency">#00000000</color>
+    <color name="color_2a2a2a">#2a2a2a</color>
+    <color name="color_f2f3f4">#f2f3f4</color>
+    <color name="color_ffa9acaf">#FFA9ACAF</color>
 </resources>

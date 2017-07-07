@@ -8,6 +8,7 @@ import android.widget.TextView;
 
 import com.example.skn.framework.R;
 
+
 public class ToolBarUtil {
     private static ToolBarUtil toolBarUtil;
 

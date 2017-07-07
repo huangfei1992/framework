@@ -4,11 +4,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <include layout="@layout/layout_toolbar" />
-
-    <TextView
-        android:id="@+id/tv_name"
+    <ProgressBar
+        style="?android:attr/progressBarStyleInverse"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="哈哈" />
+        android:layout_height="wrap_content" />
 </LinearLayout>
